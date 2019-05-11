@@ -1,0 +1,13 @@
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\Book Management System.vbprojAssemblyReference.cache
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\WindowsApp1.LoginPortal.resources
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\WindowsApp1.BookStore.resources
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\Book Management System.vbproj.GenerateResource.cache
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\Book Management System.vbproj.CoreCompileInputs.cache
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ntiwa\source\repos\Niraj\WindowsApp1\obj\Debug\WindowsApp1.pdb
